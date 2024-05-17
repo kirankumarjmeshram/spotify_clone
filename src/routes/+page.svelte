@@ -4,7 +4,7 @@
 </p>
 
 <style lang="scss">
-    @use '../style/functions';
+//   @use "../styles/functions";
   h1 {
     color: red;
     font-size: functions.toRem(36);

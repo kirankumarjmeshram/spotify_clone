@@ -6,6 +6,10 @@ https://github.com/sindresorhus/modern-normalize
 
 $ npm install modern-normalize
 
+npm i -D sass
+
+npm i svelte-preprocess
+
 ## Creating a project
 
 If you're seeing this, you've probably already done this step. Congrats!
