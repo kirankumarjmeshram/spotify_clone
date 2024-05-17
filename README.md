@@ -10,6 +10,9 @@ npm i -D sass
 
 npm i svelte-preprocess
 
+Sass functions and mixins to use media queries rules. : 
+https://github.com/unsass/breakpoint => npm install @unsass/breakpoint
+
 ## Creating a project
 
 If you're seeing this, you've probably already done this step. Congrats!

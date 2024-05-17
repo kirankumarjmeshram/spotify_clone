@@ -4,9 +4,17 @@
 </p>
 
 <style lang="scss">
-//   @use "../styles/functions";
+    //@use "../styles/functions";
+    // @use "@unsass/breakpoint";
   h1 {
     color: red;
     font-size: functions.toRem(36);
+    // u can use only down, on place of up
+    @include breakpoint.up('md'){
+        color: green;
+    }
+    @include breakpoint.up('lg'){
+        color: blue
+    }
   }
 </style>
