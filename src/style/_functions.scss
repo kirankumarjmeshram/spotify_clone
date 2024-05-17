@@ -1,0 +1,6 @@
+@use 'sass:math';
+// div for dividion
+
+@function toRem($value) {
+    @return #{math.div($value, 16)}rem;
+}
