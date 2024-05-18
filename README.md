@@ -1,17 +1,28 @@
 # create-svelte
 
-CSS Library used:
+## CSS Library used:
 
 https://github.com/sindresorhus/modern-normalize
 
+```
 $ npm install modern-normalize
 
 npm i -D sass
 
 npm i svelte-preprocess
+```
 
-Sass functions and mixins to use media queries rules. : 
-https://github.com/unsass/breakpoint => npm install @unsass/breakpoint
+Sass functions and mixins to use media queries rules. :
+https://github.com/unsass/breakpoint =>
+``` npm install @unsass/breakpoint```
+
+**Fontsource Metropolis**
+
+The CSS and web font files to easily self-host the “Metropolis” font. Please visit the main [Fontsource website](https://fontsource.org/fonts/metropolis) to view more details on this package.
+
+```npm i @fontsource/metropolis```
+
+
 
 ## Creating a project
 
