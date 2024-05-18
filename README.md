@@ -14,15 +14,19 @@ npm i svelte-preprocess
 
 Sass functions and mixins to use media queries rules. :
 https://github.com/unsass/breakpoint =>
-``` npm install @unsass/breakpoint```
+`` npm install @unsass/breakpoint``
 
 **Fontsource Metropolis**
 
 The CSS and web font files to easily self-host the “Metropolis” font. Please visit the main [Fontsource website](https://fontsource.org/fonts/metropolis) to view more details on this package.
 
-```npm i @fontsource/metropolis```
+``npm i @fontsource/metropolis``
+
+Spotify Authorization Code Flow
+    https://developer.spotify.com/documentation/web-api/tutorials/code-flow
 
 
+PKCE: What and Why? => https://dropbox.tech/developers/pkce--what-and-why-
 
 ## Creating a project
 
